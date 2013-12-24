@@ -1,5 +1,8 @@
 # CF-Post-Meta Changelog
 
+## feature/media-input
+- Added "media" input type utilizing WordPress media picker. Provides attachment post ID as value on completion.
+
 ## 2.0.4 (in dev)
 - jQuery 10 compatibility for checkbox/radio button comparisons
 - An entered value of 0 no longer gets replaced with a default value (an empty string still does)
